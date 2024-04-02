@@ -21,13 +21,21 @@ Real-time Emotion Recognition: The trained model is deployed to perform real-tim
 ## Requirements:
 
 Python 3.x
+
 OpenCV
+
 NumPy
+
 Matplotlib
+
 MediaPipe
+
 TensorFlow
+
 scikit-learn
+
 oneDAL (Intel oneAPI Data Analytics Library)
+
 oneDNN (Intel oneAPI Deep Neural Network Library)
 
 ## Instructions for Execution:
